@@ -1,7 +1,7 @@
 primes
 ======
 
-[![Build Status](https://travis-ci.org/wackywendell/primes.svg)](https://travis-ci.org/wackywendell/primes) [![Build Status](https://docs.rs/primes/badge.svg)](https://docs.rs/primes)
+![Rust](https://github.com/bermuda-sunfish/primes/workflows/Rust/badge.svg)
 
 A prime generator for Rust.
 
